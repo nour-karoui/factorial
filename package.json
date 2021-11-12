@@ -1,0 +1,24 @@
+{
+  "name": "factorial-calculator",
+  "version": "1.0.0",
+  "description": "a basic API that calculates a factorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nour-karoui/factorial.git"
+  },
+  "author": "Fares HAMOUDA & Nour KAROUI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nour-karoui/factorial/issues"
+  },
+  "homepage": "https://github.com/nour-karoui/factorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "factorial": "^2.0.0"
+  }
+}
